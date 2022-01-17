@@ -51,3 +51,4 @@ Data structures presented in the book include stacks, queues, deques, and lists 
 
 The data structures in this book are all fast, practical, and have provably good running times. All data structures are rigorously analyzed and implemented in Java and C++. The Java implementations implement the corresponding interfaces in the Java Collections Framework.
 
+I'll be focusing on JAVA implementation , all exercises I solve will be updated and pushed on the repository .
