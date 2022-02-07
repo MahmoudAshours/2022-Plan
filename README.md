@@ -6,7 +6,8 @@
 
 # Introduction
 
-Fortunately , 3/4 of the 2021 plan repository was finished. ✅ 
+Fortunately , 3/4 of the 2021 plan repository was finished. ✅
+
 It's time for a new challenge , although I face alot of problems & difficulties this year.
 Coding practically this year won't be easy until 1 / 12 / 2022.
 Why? because I'm currently serving in the military..
@@ -58,3 +59,23 @@ Data structures presented in the book include stacks, queues, deques, and lists 
 The data structures in this book are all fast, practical, and have provably good running times. All data structures are rigorously analyzed and implemented in Java and C++. The Java implementations implement the corresponding interfaces in the Java Collections Framework.
 
 I'll be focusing on JAVA implementation , all exercises I solve will be updated and pushed on the repository .
+
+## Object oriented thought process 
+
+![41C8lPgcAdL](https://user-images.githubusercontent.com/50237142/152782499-f19c8c1e-a727-49b0-b8be-7cd956e96028.jpeg)
+
+As with the first two editions, this book required the combined efforts of many people. I
+would like to take the time to acknowledge as many of these people as possible, for
+without them, this book would never have happened.
+First and foremost, I would like to thank my wife Sharon for all of her help. Not only
+did she provide support and encouragement throughout this lengthy process, she is also
+the first line editor for all of my writing.
+I would also like to thank my mom and the rest of my family for their continued
+support.
+I have really enjoyed working with the people at Pearson on all three editions of this
+book.Working with editors Mark Taber, Seth Kerney,Vanessa Evans, and Songlin Qiu has
+been a pleasure.
+A special thanks goes to Jon Upchurch for his help with much of the code as well as
+the technical editing of the manuscript.
+Finally, thanks to my daughters, Stacy and Stephanie, and my cat Duffy for keeping
+me on my toes.
