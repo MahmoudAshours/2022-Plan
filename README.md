@@ -102,3 +102,7 @@ A special thanks goes to Jon Upchurch for his help with much of the code as well
 the technical editing of the manuscript.
 Finally, thanks to my daughters, Stacy and Stephanie, and my cat Duffy for keeping
 me on my toes.
+
+## Researches 
+Research is "creative and systematic work undertaken to increase the stock of knowledge". It involves the collection, organization and analysis of information to increase understanding of a topic or issue. A research project may be an expansion on past work in the field.
+
