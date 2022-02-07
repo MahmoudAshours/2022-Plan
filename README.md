@@ -106,3 +106,11 @@ me on my toes.
 ## Researches 
 Research is "creative and systematic work undertaken to increase the stock of knowledge". It involves the collection, organization and analysis of information to increase understanding of a topic or issue. A research project may be an expansion on past work in the field.
 
+- [The Architecture of Complexity](https://www2.econ.iastate.edu/tesfatsi/ArchitectureOfComplexity.HSimon1962.pdf)
+- [Object Oriented Design Expertise Reuse: an Approach
+Based on Heuristics, Design Patterns and Anti-Patterns](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.3878&rep=rep1&type=pdf)
+- [Denial of Service via Algorithmic Complexity Attacks](https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby.pdf)
+- [Functional Differentiation of Computer Programs](https://www.researchgate.net/profile/Jerzy-Karczmarczuk)
+- [THE BOEING 777: DEVELOPMENT LIFE CYCLE FOLLOWS ARTIFACT ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.2230&rep=rep1&type=pdf)
+- [Hints on programminglanguage design](https://www.cs.yale.edu/flint/cs428/doc/HintsPL.pdf)
+- [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf)
