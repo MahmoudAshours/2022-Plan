@@ -41,6 +41,12 @@ This year I'll be focusing more on reading books and discovering new topics and 
 - Pro Android Augmented reality
 - The object oriented thought process
 - React in action
+- OOD in JAVA
+- UML distilled
+- The object primer
+- Nosql distilled
+- Crafting a compiler
+- The power of habit
 
 ## Open data structures 
 
