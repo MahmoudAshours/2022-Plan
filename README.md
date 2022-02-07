@@ -29,6 +29,29 @@ also different linkedin and Facebook posts to read in military.
 
 - [First domi](https://docs.google.com/document/d/1fJRm22yTQUKgwth0Zv7iqo-F9N_n6JrIdVhLz_2X_bQ/edit?usp=sharing)
 - [Second domi](https://docs.google.com/document/d/1u9G0_Cwl4UGj6NySaVo1n2-P68OVLhGWYhXn1IoV4ks/edit?usp=sharing)
+- [Third domi](https://docs.google.com/document/d/1y0DaR7zhw41RS6ki3NKT9mfkA2SwcN2uLPTzVaQu3FA/edit?usp=sharing)
+
+## The Domi design
+
+- First page : Title of Domi , Number of domi.
+- Second page : Quick overview and introduction of Domi.
+- Third page : content of the Domi (title of each topic and subtopic)
+
+# Domi Architecture
+*In order to be easily managed , also to run scripts of text mining (data analysis) or topic extraction.*
+
+- Each page is numbered sequentially.
+- Topics are represented with tags , each topic has its category.
+
+Topics are represented as : 
+
+Line 1 : (all caps) TITLE : computing in businesses <- for example
+
+Line 2 : #bussiness,#computing 
+
+Line 3 : Article
+
+Line n : END TOPIC <- for example
 
 ## Books 
 This year I'll be focusing more on reading books and discovering new topics and studying it. These are the books I'll start reading
